@@ -208,10 +208,10 @@ button{
     background: url(images/muscu-banner.jpg) 100%;
 }
 .vente {
-    background: radial-gradient(rgba(193, 161, 67, 0.926), rgba(104, 82, 14, 0.625))
+    background: radial-gradient(rgba(255, 236, 153  , 0.926), rgba(255, 236, 153 , 0.625))
 }
 .location {
-    background: radial-gradient(rgba(193, 161, 67, 0.926), rgba(104, 82, 14, 0.625))
+    background: radial-gradient(rgba(255, 236, 153  , 0.926), rgba(1255, 236, 153 , 0.625))
 }
 .salade{
     background: url(images/yoga-banner.jpg) 100%;
