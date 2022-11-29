@@ -24,7 +24,7 @@ header{
 }
 
 div.title-box{
-    background-color: rgba(183, 146, 38, 0.625);
+    background-color: rgba(255, 186, 108, 0.625);
     position: absolute;
     z-index: 999;
     padding:30px;
